@@ -2,7 +2,7 @@
 
 This web resource lists the top 20 bands of all time, as I see it.
 
-The list is updated monthly.
+The list is updated monthly.  (However, changes are anticipated to occur at glacier speed, so missing one or two ticks will not upend your existence.)
 
 The bands are listed in strict alphanumeric order.
 
